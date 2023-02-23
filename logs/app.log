@@ -1,0 +1,8 @@
+2023-02-23 08:32:55.721  WARN 18168 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15h52m36s986ms689µs800ns).
+2023-02-23 09:44:25.482  INFO 18168 --- [RMI TCP Connection(197)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-02-23 09:44:25.545  INFO 18168 --- [RMI TCP Connection(197)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-02-23 09:44:25.554  INFO 18168 --- [RMI TCP Connection(197)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-02-23 09:44:25.575  INFO 18168 --- [RMI TCP Connection(197)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-02-23 09:44:25.580  INFO 18168 --- [RMI TCP Connection(197)-127.0.0.1] .SchemaDropperImpl$DelayedDropActionImpl : HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2023-02-23 09:44:25.603  INFO 18168 --- [RMI TCP Connection(197)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-02-23 09:44:25.612  INFO 18168 --- [RMI TCP Connection(197)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
